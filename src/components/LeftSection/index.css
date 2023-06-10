@@ -1,0 +1,55 @@
+.leftSectionContainer {
+  min-width: 23%;
+  padding: 40px;
+  margin-left: 30px;
+  /* border: 1px solid red; */
+  min-height: 92vh;
+}
+
+.profileContainer {
+  /* height: 150px; */
+  width: 100%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 25px;
+  border-radius: 25px;
+  margin-bottom: 30px;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 150px;
+}
+
+.profileNameHeading {
+  font-size: 22px;
+  color: #6366f1;
+  margin-top: 15px;
+}
+
+.profileBioPara {
+  color: #2c364c;
+  margin-top: 15px;
+}
+
+.leftHeading {
+  font-size: 25px;
+}
+
+.listItemEl {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.checkbox {
+  margin-right: 15px;
+}
+
+.hrLine {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

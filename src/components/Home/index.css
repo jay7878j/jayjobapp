@@ -1,0 +1,31 @@
+.mainHomeContainer {
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+}
+
+.homeContentContainer {
+  width: 30%;
+  margin-top: 150px;
+  margin-left: 60px;
+}
+
+.homeHeading {
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.exploreJobBtn {
+  width: 120px;
+  height: 40px;
+  background-color: #6366f1;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+  margin-top: 50px;
+}
+
+.homePara {
+  color: #ffffff80;
+}

@@ -1,0 +1,63 @@
+.jobInfoDescContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.visitContainer {
+  display: flex;
+  align-items: center;
+}
+
+.anchorLink {
+  margin-right: 10px;
+  color: #6366f1;
+}
+
+.skillsContainer {
+  margin-top: 35px;
+}
+
+.heading {
+  /* align-self: flex-start; */
+  font-size: 25px;
+}
+
+.skillsListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
+
+.skillListEl {
+  list-style-type: none;
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.skillLogo {
+  height: 40px;
+}
+
+.skillHeading {
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.lifeAtCompanyContainer {
+  margin-top: 30px;
+}
+
+.companyContentContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.companyInfoPara {
+  margin-top: 30px;
+}
+
+.lifeAtCompanyImg {
+  height: 250px;
+}

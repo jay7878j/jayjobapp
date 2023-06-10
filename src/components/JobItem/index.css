@@ -1,0 +1,69 @@
+.jobLinkItem {
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.jobListItemEl {
+  list-style-type: none;
+  background-color: #272727;
+  border-radius: 15px;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+.companyProfileContainer {
+  display: flex;
+  height: 70px;
+}
+
+.companyLogo {
+  height: 60px;
+  margin-right: 20px;
+  align-self: center;
+}
+
+.jobTitleHeading {
+  font-size: 25px;
+}
+
+.ratingContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.ratingPara {
+  margin-left: 10px;
+}
+
+.locationAndPackageContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.locationAndJobType {
+  display: flex;
+  align-items: center;
+}
+
+.locationContainer {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.para {
+  margin-left: 10px;
+}
+
+.jobDescHeading {
+  font-size: 22px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
